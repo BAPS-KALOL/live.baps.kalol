@@ -204,7 +204,8 @@ body {
 .section-title {
    text-align: center;
     margin: 24px 30px 24px;
-    color: #0f172ad2
+    color: #0f172ad2;
+    
 }
 
 .T01 {
@@ -366,7 +367,7 @@ p {
     .section-title {
         margin: 27px 80px 27px;
         font-weight: normal;
-        font-size: 1.25rem;
+        font-size: 1.2rem;
         text-align: center;
     }
 
