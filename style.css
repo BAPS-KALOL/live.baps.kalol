@@ -430,14 +430,17 @@ p {
     }
 
     .T01 {
+        font-family: "Noto Sans Gujarati", sans-serif;
         display: none;
     }
 
     .T02 {
+        font-family: "Noto Sans Gujarati", sans-serif;
         margin-bottom: 0;
     }
 
     .T03 {
+        font-family: "Noto Sans Gujarati", sans-serif;
         font-size: 1rem;
         margin-top: 0;
     }
