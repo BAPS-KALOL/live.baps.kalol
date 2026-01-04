@@ -186,13 +186,23 @@ body {
     border: 1px solid #eee;
     color: #fff
 }
+.T01 {
+    display: none;
+    font-size: 2rem;
+}
 
+.T02 {
+    margin-bottom: 0;
+    font-size: 2rem;
+}
+
+.T03 {
+    margin-top: 0;
+    font-size: 1.5rem;
+}
 /* Video Section */
 .section-title {
-    font-family: "Quicksand", sans-serif;
-    font-weight: lighter;
-    text-align: center;
-
+   text-align: center;
     margin: 24px 30px 24px;
     color: #0f172ad2
 }
